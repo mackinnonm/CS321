@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!Michele MacKinnnon>
 <!Assignment 4>
+<!CS321>
 
 
 <html>
@@ -47,6 +48,9 @@ else {
 if(!strlen($phone))=10){
 echo("Enter a valid phone number.")
 }
+$phone = '000-0000-0000';
+if(preg_match("/^[0-9]{3}-[0-9]{4}-[0-9]{4}$/", $phone)) 
+}	
 function IsChecked($chkname,$value)
 {
 if(empty($_POST[$chkname]))
