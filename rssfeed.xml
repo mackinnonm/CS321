@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>BBC Weather - Forecast for  Isle of Skye Scotland</title>
+    <link>https://www.bbc.co.uk/weather/8299863</link>
+    <description>3-day forecast for Skye from BBC Weather, including weather, temperature and wind information</description>
+    <language>en</language>
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</copyright>
+    <pubDate>Thu, 05 Dec 2019 00:01:26 GMT</pubDate>
+    <dc:date>2019-12-05T00:01:26Z</dc:date>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright: (C) British Broadcasting Corporation, see http://www.bbc.co.uk/terms/additional_rss.shtml for more details</dc:rights>
+    <atom:link href="https://weather-broker-cdn.api.bbci.co.uk/%s/forecast/rss/3day/%s" type="application/rss+xml" rel="self" />
+    <image>
+      <title>BBC Weather - Forecasst for Isle of Skye Scotland</title>
+      <url>http://static.bbci.co.uk/weather/0.3.203/images/icons/individual_57_icons/en_on_light_bg/36.gif</url>
+      <link>https://www.bbc.co.uk/weather/8299863</link>
+    </image>
+    <item>
+      <title>Tonight: Light Cloud, Minimum Temperature: 4Â°C (40Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/8299863?day=0</link>
+      <description>Minimum Temperature: 4Â°C (40Â°F), Wind Direction: South Westerly, Wind Speed: 9mph, Visibility: Moderate, Pressure: 1018mb, Humidity: 92%, UV Risk: 0, Pollution: Low, Sunset: 15:52 GMT</description>
+      <pubDate>Thu, 05 Dec 2019 00:01:26 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/8299863-0-2019-12-04T21:51:00.000+0000</guid>
+      <dc:date>2019-12-05T00:01:26Z</dc:date>
+      <georss:point>53.4809 -2.2374</georss:point>
+    </item>
+    <item>
+      <title>Thursday: Light Rain, Minimum Temperature: 9Â°C (48Â°F) Maximum Temperature: 10Â°C (50Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/8299863?day=1</link>
+      <description>Maximum Temperature: 10Â°C (50Â°F), Minimum Temperature: 9Â°C (48Â°F), Wind Direction: South Westerly, Wind Speed: 14mph, Visibility: Good, Pressure: 1013mb, Humidity: 89%, UV Risk: 0, Pollution: Low, Sunrise: 08:08 GMT, Sunset: 15:51 GMT</description>
+      <pubDate>Thu, 05 Dec 2019 00:01:26 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/8299863-1-2019-12-04T21:51:00.000+0000</guid>
+      <dc:date>2019-12-05T00:01:26Z</dc:date>
+      <georss:point>53.4809 -2.2374</georss:point>
+    </item>
+    <item>
+      <title>Friday: Light Rain Showers, Minimum Temperature: 8Â°C (46Â°F) Maximum Temperature: 12Â°C (53Â°F)</title>
+      <link>https://www.bbc.co.uk/weather/8299863?day=2</link>
+      <description>Maximum Temperature: 12Â°C (53Â°F), Minimum Temperature: 8Â°C (46Â°F), Wind Direction: Westerly, Wind Speed: 15mph, Visibility: Good, Pressure: 1000mb, Humidity: 88%, UV Risk: 0, Pollution: Low, Sunrise: 08:10 GMT, Sunset: 15:51 GMT</description>
+      <pubDate>Thu, 05 Dec 2019 00:01:26 GMT</pubDate>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/8299863-2-2019-12-04T21:51:00.000+0000</guid>
+      <dc:date>2019-12-05T00:01:26Z</dc:date>
+      <georss:point>53.4809 -2.2374</georss:point>
+    </item>
+  </channel>
+</rss>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+
+</root>

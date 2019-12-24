@@ -1,0 +1,32 @@
+form{
+  width: 900px;
+  margin:auto;
+  margin-top:250px;
+}
+.search{
+  width:85%;
+  padding:10px;
+  font-size:20px;
+  background-color:white;
+  color:arialblack;
+}
+.submit{
+  width:10%;
+  padding:10px;
+  font-size:20px;
+  background-color:mediumpurple;
+  color:white;
+}
+h1{
+  text-align:center;
+}
+p{
+  font-size:25px;
+  color:white;
+}
+a{
+  font-size:25px;
+  color:White;
+}
+
+</
